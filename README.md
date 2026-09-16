@@ -1,9 +1,9 @@
 # Git Practice
 
-<https://www.gartner.com/en/webinar/932688/1931088-ai-has-moved-your-competitive-moat-how-leaders-can-turn-threat-into-advantage?utm_source=tldr&utm_medium=display&utm_campaign=GTR_GB_2026_GTR_PD_DS6_AITLDRNL&utm_term=wb>
+<https://zanlib.dev/blog/do-you-still-read-the-code/>
 
 ## What is this article about?
-- This article is about how A. I. is invading human's traditional **"moat"**s that used to protect businesses/market positions. The article frames this disruption around three specific archetypes of "moat disruption," identifies where the associated risks are emerging across industries, and mentions practical steps executives can take to rebuild competitive advantage and stay relevant whilst the A. I. turmoil.
+- This article is about whether developers should proofread AI-generated code. He distinguishes **accelerators** who use AI to code faster but still read and understand the implementation, from **vibe-coders** who delegates implementation and focus on specifying and evaluating outcomes instead. The author argues the core of programming is the underlying mental "theory," not the code itself, and that skipping implementation risks **cognitive debt** and **intent debt**.
 
 ## Why is this interesting?
-- This article is interesting because it shows how A. I. is a double-sided sword that can either help or harm what humans have done. The article seems useful since it doesn't just diagnose the threat, but it offers a structured way (three archetypes) to categorize how it's happening. The article cleverly reframes A. I, controversy from a "efficiency tool" conversation into a **"existential strategy"** conversation.
+- This article challenges the contemporary assumption that skipping code review is simply the next step in abstraction, while reframing it as a **loss of understanding and intent** that can go unnoticed until something breaks. It also grounds this AI-era debate in older, non-AI research (Naur 1985, Bainbridge 1983), suggesting the real issue is an old automation problem now made more urgent.
